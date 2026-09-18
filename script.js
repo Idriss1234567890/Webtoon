@@ -1,5 +1,5 @@
 
-const DOWNLOAD_URL = "https://www.mediafire.com/file/57c6lu53h6m8tsh/MangaLix.apk/file";
+const DOWNLOAD_URL = "https://www.mediafire.com/file/3qi6hx88em833t8/MangaLix1.0.apk/file";
 
 document.querySelectorAll('[data-download]').forEach((link) => {
   link.addEventListener('click', (event) => {
